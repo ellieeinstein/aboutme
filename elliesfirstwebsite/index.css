@@ -1,0 +1,18 @@
+h1{
+    color: lavender;
+}
+
+html{
+   background: linear-gradient(purple, rgb(192, 194, 249), pink, rgb(249, 238, 112), orange); 
+}
+
+p,h1,h2,ul{
+    color: white;
+}
+
+h1, h2 {
+    font-family: 'Fascinate Inline', cursive;
+}
+p,ul{
+    font-family: 'Indie Flower', cursive;
+}
